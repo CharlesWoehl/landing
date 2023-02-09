@@ -1,0 +1,7 @@
+.banner {
+  background-image: url('../../images/banner.jpg');
+  height:50vh;
+  color:white;
+  padding-top:20vh;
+  background-size:cover;
+}

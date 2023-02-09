@@ -1,0 +1,44 @@
+.container {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.banner .container h1 {
+font-size: 24px;
+color: white;
+text-shadow: 0 1px 10px rgb(0 0 0);
+margin-bottom: 5px;
+}
+.banner .container  p {
+  font-size: 16px;
+  color: #FFF;
+  text-shadow: 0 1px 10px rgb(0 0 0);
+  margin-top: 0;
+  text-align: left;
+  }
+
+  .container h2 {
+    font-size: 30px;
+    color: #4A8267;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.container h3 {
+    font-size: 16px;
+    color: #4A8267;
+    text-align: center;
+}
+
+.container p {
+  font-size: 12px;
+  color: #16271F;
+  text-align: center;
+}
+
+
+@media (max-width: 900px){
+.container {
+    width: 500px;
+}
+}
